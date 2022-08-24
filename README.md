@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate Software Developer</h3>
-<image align="right" width= "400" src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" >
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidfaf&label=Profile%20views&color=0e75b6&style=flat" alt="davidfaf" /> </p>
 

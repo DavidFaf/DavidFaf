@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/DavidFaf/cv/blob/main/coding-banner-design-vector-20832000.jpg)]
+
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">

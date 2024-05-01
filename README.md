@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidfaf" alt="davidfaf" /></a> </p>
 
-- 🌱 I’m currently learning **SpringBoot for Microservices**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Python, Flask, Machine Learning, Tensorflow**
 
 - 📫 How to reach me **dfafure@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/david-fafure-58776823a](https://www.linkedin.com/in/david-fafure-58776823a)
+- 📄 Know about my experiences [http://davidfafure.webflow.io/](http://davidfafure.webflow.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

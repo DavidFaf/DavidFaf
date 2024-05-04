@@ -2,10 +2,12 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidfaf&label=Profile%20views&color=0e75b6&style=flat" alt="davidfaf" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidfaf" alt="davidfaf" /></a> </p>
+
+<figure><embed src="https://wakatime.com/share/@027d7f8c-0fb9-42e2-bd00-a782e4134625/4b61e416-490c-4a91-863f-d1bb73c9cefc.svg"></embed></figure>
+
 
 - 🌱 I’m currently learning **React Native**
 
